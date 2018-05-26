@@ -10,7 +10,8 @@
     "build": "export NODE_ENV=production|| set NODE_ENV=production && webpack"
   },
   "engines": {
-    "node": ""
+    "node": "8.9.3",
+    "npm": "5.5.1"
 },
   "devDependencies": {
     "babel-core": "^6.25.0",
