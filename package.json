@@ -9,6 +9,9 @@
     "start": "webpack-dev-server --progress --colors --hot",
     "build": "export NODE_ENV=production|| set NODE_ENV=production && webpack"
   },
+  "engines": {
+    "node": ""
+},
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-eslint": "^7.2.3",
